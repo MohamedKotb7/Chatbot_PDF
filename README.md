@@ -25,7 +25,7 @@ A powerful chatbot application that allows users to interact with multiple PDF d
 ### Local Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multi-document-chatbot.git
+git clone https://github.com/MohamedKotb7/Chatbot_PDF.git
 cd multi-document-chatbot
 ```
 
