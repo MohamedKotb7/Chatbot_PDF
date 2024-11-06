@@ -40,11 +40,11 @@ streamlit run main.py
 ```
 
 ### Docker Setup
-1. Build and run using Docker Compose:
-```bash
-docker-compose up --build
-```
+# Build the Docker image
+docker build -t streamlit-pdf-chat .
 
+# Run the container
+docker run -p 8501:8501 streamlit-pdf-chat
 The application will be available at `http://localhost:8501`
 
 ## Configuration
